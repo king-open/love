@@ -3,6 +3,7 @@
 <template>
   <div>
     <p>Money.vue</p>
+    <Nav/>
   </div>
 </template>
 
