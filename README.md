@@ -1,29 +1,4 @@
-# love
+# love 
 
-## Project setup
-```
-pnpm install
-```
+闲的无聊写一个 记账 玩玩
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
-
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Run your unit tests
-```
-pnpm run test:unit
-```
-
-### Lints and fixes files
-```
-pnpm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
